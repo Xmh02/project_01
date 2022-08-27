@@ -1,0 +1,135 @@
+.main{
+    height: 486px;
+    background-color: #7e00ff;
+}
+.footer{
+    height: 90px;
+}
+.w1200{
+    position: relative;
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    background: url(../img/loginbg.png) no-repeat;
+}
+.login{
+    position: absolute;
+    top: 62px;
+    right: 114px;
+    width: 308px;
+    height: 362px;
+    background-color: #fff;
+    padding:0 36px;
+}
+.login-title{
+    margin-top: 24px;
+}
+.login-title ul li{
+    float: left;
+    width: 144px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.login-title .zh{
+    width: 141px;
+    color: #c81623;
+    border-left: 1px solid #ccc;
+    text-align: right;
+    padding-right: 12px;
+}
+.login-middle{
+    height: 24px;
+    border: 1px solid #fffdee;
+    background-color: #fffdee;
+    line-height: 24px;
+    margin-top: 20px;
+}
+.both{
+    float: left;
+    width: 258px;
+    height: 34px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.user{
+    margin-top: 10px;
+}
+.psd{
+    margin-top: 16px;
+}
+.login-user{
+    background: url(../img/icons.png) no-repeat -10px -201px;
+    margin-top: 10px;
+}
+.login-psd{
+    background: url(../img/icons.png) no-repeat -72px -201px;
+    margin-top: 16px;
+}
+.both1{
+    float: left;
+    width: 38px;
+    height: 36px;
+    background-color: #cfcdcd;
+}
+.login input:focus{
+    border: 1px solid #3aa2e4;
+}
+.login-middle2{
+    margin-top: 20px;
+}
+.login-middle2 input{
+    vertical-align: middle;
+}
+.login-middle2 a{
+    float: right;
+    color: #333;
+}
+.denglu{
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #c81623;
+    font-size: 16px;
+    color: #fff;
+}
+.denglu:hover{
+    color: #fff;
+    background-color:#b1191a;
+}
+.login-end{
+    margin-top: 30px;
+    height: 36px;
+}
+.login-end ul li{
+    float: left;
+    width: 36px;
+    height: 36px;
+    margin-right: 5px;
+}
+.login-end ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../img/regetype.png) no-repeat;
+}
+.login-end .login-end-1{
+    background-position: -18px -8px;
+}
+.login-end .login-end-2{
+    background-position: -70px -8px;
+}
+.login-end .login-end-3{
+    background-position: -122px -8px;
+}
+.login-end .login-end-4{
+    background-position: -174px -8px;
+}
+.login-end .login-end-5{
+    float: right;
+    margin-top: 5px;
+    color: #1474af;
+    font-size: 14px;
+}
